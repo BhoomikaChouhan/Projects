@@ -1,0 +1,48 @@
+*{
+    /* border: 1px solid black; */
+}
+#logo{
+    text-align: center;
+    }
+#logo a{
+        color: rgba(255, 255, 255, 0.61);
+        font-family: cursive ;
+        font-size: large;
+        text-decoration: none;
+    }
+    #bgi{
+        background-image: url(/Web\ Designing/HTML/image/blog.jpg);
+        width: 100%;
+        height: 100vh;
+    }
+    #bgc{
+        background-color: rgba(0, 0, 0, 0.438);
+        width: 100%;
+        height: 100vh;
+    }
+    #main{
+        
+        text-align: center;
+        /* padding-top: 100px; */
+        color: rgba(247, 248, 250, 0.685);
+        width: 100%;
+        letter-spacing: 1px;
+        font-family: cursive;
+        font-size: 70%;
+    }
+    #main h2
+    {
+        /* font-size: xx-large; */
+        /* font-size: 80px; */
+        letter-spacing: 1px;
+        
+    }
+    #main a
+    {
+        text-decoration: none;
+        color: rgba(247, 248, 250, 0.808);
+        font-family: cursive;
+        /* font-weight: bold; */
+        /* font-size: 70%; */
+        
+    }
